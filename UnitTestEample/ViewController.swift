@@ -16,5 +16,10 @@ class ViewController: UIViewController {
     }
 
 
+    // Return product of two int numbers
+    func productOfTwoNumbers(num1: Int, num2: Int) -> Int {
+        return num1 * num2
+    }
+
 }
 
